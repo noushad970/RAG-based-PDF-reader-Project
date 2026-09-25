@@ -1,0 +1,12 @@
+faiss-cpu>=1.9.0
+numpy>=1.24.0
+ollama>=0.3.0
+pymupdf>=1.24.0
+rapidocr-onnxruntime>=1.2.0
+pillow>=10.0.0
+pypdf>=5.0.0
+fonttools>=4.50.0
+cryptography>=42.0.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
+python-multipart>=0.0.12
